@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ScottyDont1134
 - 👀 I’m interested in furthering my education.
 - 🌱 I’m currently learning Java, C++, VB, & Python
-- 💞️ I’m looking to collaborate on futue projects possibly
+- 💞️ I’m looking to collaborate on future projects possibly
 - 📫 How to reach me: email
 
 <!---
